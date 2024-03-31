@@ -1,2 +1,2 @@
-# spxxklp
-Minecraft.net blog article to BBCode converter, rewritten and adapted to KLPBBS 
+# 苦力怕论坛 SPXX
+这是一个特别为苦力怕论坛制作的 SPXX 版本。SPXX 原本是可以自动在 Minecraft 官网中复制粘贴新闻的符合 MCBBS 排版的 BBCode，方便译者在论坛更加便捷的发帖。由于 MCBBS 发生了一些事情，我和 @Cinder 决定将其进行一些改动，以更加适应苦力怕论坛的排版，方便苦力怕论坛的用户使用。我们注意到原软件使用的是 CC0 协议，因此我们对其进行更改是符合其版权协议的。感谢 SPXFellow 对 SPXX 的开发乃至 Minecraft 资讯翻译的巨大贡献 
